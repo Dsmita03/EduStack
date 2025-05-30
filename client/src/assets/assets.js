@@ -378,7 +378,7 @@ export const dummyCourses = [
                         "lectureId": "lecture1",
                         "lectureTitle": "What is Cybersecurity?",
                         "lectureDuration": 10,
-                        "lectureUrl": "https://youtu.be/samplelink5",
+                        "lectureUrl": "https://www.youtu.be/ULGILG-ZhO0",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -386,7 +386,7 @@ export const dummyCourses = [
                         "lectureId": "lecture2",
                         "lectureTitle": "Types of Cyber Threats",
                         "lectureDuration": 18,
-                        "lectureUrl": "https://youtu.be/samplelink6",
+                        "lectureUrl": "https://www.youtu.be/Dk-ZqQ-bfy4",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
@@ -401,7 +401,7 @@ export const dummyCourses = [
                         "lectureId": "lecture3",
                         "lectureTitle": "Password Management",
                         "lectureDuration": 15,
-                        "lectureUrl": "https://youtu.be/samplelink7",
+                        "lectureUrl": "https://www.youtu.be/5MMoxyK1Y9o",
                         "isPreviewFree": true,
                         "lectureOrder": 1
                     },
@@ -409,7 +409,7 @@ export const dummyCourses = [
                         "lectureId": "lecture4",
                         "lectureTitle": "Network Security Essentials",
                         "lectureDuration": 20,
-                        "lectureUrl": "https://youtu.be/samplelink8",
+                        "lectureUrl": "https://www.youtu.be/6Jubl1UnJTE",
                         "isPreviewFree": false,
                         "lectureOrder": 2
                     }
