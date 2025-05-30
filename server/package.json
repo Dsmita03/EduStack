@@ -5,9 +5,11 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "server": "nodemon server.js"
-  },
+  "start": "node server.js",
+  "server": "nodemon server.js",
+  "build": "echo 'No build step necessary'"
+},
+
   "keywords": [],
   "author": "",
   "license": "ISC",
